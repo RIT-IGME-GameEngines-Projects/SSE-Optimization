@@ -15,6 +15,9 @@
 
 #include "logger.h"
 
+// For CSS parsing
+#include <Awesomium\WebCore.h>
+
 #define FPS  60
 
 using namespace std;
